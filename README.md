@@ -65,13 +65,5 @@ Dự án này là một website tĩnh (static website) nên không yêu cầu c�
     - **Khuyến nghị:** Sử dụng một server ảo để tránh các lỗi liên quan đến CORS khi làm việc với file. Tiện ích **Live Server** trên Visual Studio Code là một lựa chọn tuyệt vời.
       - Cài đặt Live Server trên VS Code.
       - Nhấp chuột phải vào file `index.html` và chọn "Open with Live Server".
-
-
-
-
-## ✒️ Tác giả
-
-Được phát triển và thiết kế bởi Trần Hữu Đạt.
-
 ---
 _Dự án được xây dựng với mục tiêu học hỏi và tạo ra một nền tảng website TMĐT hoàn chỉnh bằng các công nghệ web cơ bản._
