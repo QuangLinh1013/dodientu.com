@@ -38,7 +38,7 @@
 ## 🚀 Công Nghệ Sử Dụng
 
 - **Frontend:**
-  - **HTML5:** Cấu trúc ngữ nghĩa, chuẩn SEO.
+  - **HTML5:** Cấu trúc ngữ nghĩa
   - **CSS3:**
     - Flexbox & Grid Layout cho bố cục responsive.
     - CSS Variables (Biến CSS) để dễ dàng thay đổi theme.
@@ -66,29 +66,7 @@ Dự án này là một website tĩnh (static website) nên không yêu cầu c�
       - Cài đặt Live Server trên VS Code.
       - Nhấp chuột phải vào file `index.html` và chọn "Open with Live Server".
 
-## 📜 Giấy Phép
 
-Dự án này được cấp phép theo **Giấy phép Quốc tế Creative Commons Ghi công - Phi thương mại 4.0**.
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
-
-**Bạn được tự do:**
-*   **Chia sẻ:** Sao chép và phân phối lại tài liệu dưới bất kỳ phương tiện và định dạng nào.
-*   **Thích ứng:** Chỉnh sửa, biến đổi và xây dựng dựa trên tài liệu.
-
-**Theo các điều khoản sau:**
-*   **Ghi công (Attribution):** Bạn phải ghi công một cách hợp lý, cung cấp một liên kết đến giấy phép và cho biết nếu có thay đổi nào được thực hiện.
-*   **Phi thương mại (NonCommercial):** Bạn không được sử dụng tài liệu cho các mục đích thương mại.
-
-
-## 📚 Tài liệu & Hướng dẫn
-
-Các hướng dẫn kỹ thuật chi tiết và các quy trình quản lý dự án được lưu trữ trong các file riêng biệt:
-
-*   **[Hướng dẫn Export Dữ liệu từ MongoDB Compass](./exportMongodb.md)**
-*   **[Hướng Dẫn Thay Đổi Bản Đồ Map của trang contact.html](./googleMaps.md)**
-*   **[Lấy link ảnh bằng raw github](./rawImageGithub.md)**
 
 
 ## ✒️ Tác giả
