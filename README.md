@@ -2,7 +2,7 @@
 
 ![VP Computer Screenshot](https://raw.githubusercontent.com/TranHuuDat2004/vpcomputer.com/main/img/screenshot.png) 
 
-Đây là dự án mã nguồn cho website **VP Computer**, một trang thương mại điện tử chuyên cung cấp linh kiện máy tính, gaming gear và các giải pháp PC tùy chỉnh. Dự án được xây dựng hoàn toàn bằng HTML, CSS và JavaScript thuần túy, không phụ thuộc vào các framework lớn, tập trung vào hiệu năng, khả năng tùy biến và trải nghiệm người dùng mượt mà.
+Dự án được xây dựng hoàn toàn bằng HTML, CSS và JavaScript, không phụ thuộc vào các framework lớn, tập trung vào hiệu năng, khả năng tùy biến và trải nghiệm người dùng mượt mà.
 
 ## ✨ Các Tính Năng Nổi Bật
 
@@ -27,14 +27,7 @@
     - Trang giỏ hàng chi tiết.
     - Trang thanh toán tối giản.
     - Tự động tạo và tải hóa đơn PDF sau khi đặt hàng.
-- **Hệ thống Trang Tĩnh:** Giới thiệu, Tuyển dụng, Chính sách, FAQ... được thiết kế chuyên nghiệp.
-
-### 🔐 Giao Diện Quản Trị (Admin Dashboard)
-- **Tách biệt & Bảo mật:** Nằm trong thư mục `/admin` với trang đăng nhập riêng.
-- **Tổng quan Trực quan:** Biểu đồ doanh thu, lợi nhuận, và các chỉ số quan trọng.
-- **Quản lý Dữ liệu:** Các trang quản lý Sản phẩm, Đơn hàng, Khách hàng với giao diện bảng biểu và responsive.
-- **Cấu trúc Module hóa:** Dễ dàng mở rộng thêm các tính năng quản lý mới.
-
+- **Hệ thống Trang Tĩnh:** Giới thiệu, Tuyển dụng, Chính sách, FAQ... 
 ## 🚀 Công Nghệ Sử Dụng
 
 - **Frontend:**
@@ -56,11 +49,7 @@
 
 Dự án này là một website tĩnh (static website) nên không yêu cầu cài đặt phức tạp.
 
-1.  **Clone a repository:**
-    ```bash
-    git clone https://github.com/TranHuuDat2004/vpcomputer.com.git
-    ```
-2.  **Mở file `index.html`:**
+1.  **Mở file `index.html`:**
     - Cách đơn giản nhất là mở file `index.html` ở thư mục gốc trực tiếp bằng trình duyệt.
     - **Khuyến nghị:** Sử dụng một server ảo để tránh các lỗi liên quan đến CORS khi làm việc với file. Tiện ích **Live Server** trên Visual Studio Code là một lựa chọn tuyệt vời.
       - Cài đặt Live Server trên VS Code.
